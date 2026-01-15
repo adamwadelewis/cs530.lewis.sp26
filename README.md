@@ -1,6 +1,4 @@
----
-title: CS 530 Sample Code Repository for Spring 2026
----
+# CS 530 Sample Code Repository for Spring 2026
 
 Here is the sample code for CS 530.  
 
